@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+ I am Books Club Pro Filter Bot.
 
 Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
@@ -26,17 +26,17 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @SDBUB7 </b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Books Club Pro Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @SDBUB7
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>My Group :</b> <a href='https://t.me/BooksClubFranchise'>My Group</a> 
 
 """
